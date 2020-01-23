@@ -1,2 +1,2 @@
 # exercicio1
-Exercício para prática de operadores e condicionais - calculadora simples
+exercicio para pratica de condicional while, if e else if com uso de numero randomico
